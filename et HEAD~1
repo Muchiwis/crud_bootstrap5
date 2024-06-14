@@ -1,0 +1,85 @@
+[33mcommit 66109575dca95fbff9aca11fa312d17714256157[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Muchiwis <jhordcristian75@gmail.com>
+Date:   Fri Jun 14 16:54:14 2024 -0500
+
+    asd
+
+[33mcommit c8977b2183f4d769013cf3d860d9ac280fa6f867[m
+Merge: 2f99940 64631e3
+Author: Muchiwis <jhordcristian75@gmail.com>
+Date:   Thu Jun 13 20:05:07 2024 -0500
+
+    Merge branch 'main' of https://github.com/Muchiwis/crud_bootstrap5
+
+[33mcommit 2f999403ebd54d3043e3dec5efa6de57a65c19e2[m
+Author: Muchiwis <jhordcristian75@gmail.com>
+Date:   Thu Jun 13 20:04:24 2024 -0500
+
+    reverse tabla
+
+[33mcommit 64631e364062f807531923d175179caa4c9abcbb[m
+Author: Jhord Cristian <113742339+Muchiwis@users.noreply.github.com>
+Date:   Thu Jun 13 19:55:13 2024 -0500
+
+    Update README.md
+
+[33mcommit e7748145007ad0ae16ba76394963af1057947fd4[m
+Author: Muchiwis <jhordcristian75@gmail.com>
+Date:   Thu Jun 13 19:51:24 2024 -0500
+
+    as
+
+[33mcommit 92c25a2021a5ab006a3f9ed377cdc6e5b7e107d0[m
+Author: Muchiwis <jhordcristian75@gmail.com>
+Date:   Thu Jun 13 19:34:46 2024 -0500
+
+    remove tabla.css
+
+[33mcommit ef5056e6d959dc24321e7fb1e8a42dce24739c8f[m
+Author: Muchiwis <jhordcristian75@gmail.com>
+Date:   Thu Jun 13 19:30:06 2024 -0500
+
+    a
+
+[33mcommit 841cec58900d8ccfd339bbf5755d2ef179b0adec[m
+Author: Muchiwis <jhordcristian75@gmail.com>
+Date:   Thu Jun 13 19:18:14 2024 -0500
+
+    cambio de ruta de estilo y script para el build
+
+[33mcommit a4b6a201a6c6c27e96223d0791b67f9c84fafc16[m
+Author: Muchiwis <jhordcristian75@gmail.com>
+Date:   Thu Jun 13 18:20:18 2024 -0500
+
+    add start
+
+[33mcommit 99a6538c4ad3c27e866b66ecb6a7b6117180ab48[m
+Merge: 5fb0c9a 4303c24
+Author: Muchiwis <jhordcristian75@gmail.com>
+Date:   Thu Jun 13 15:10:29 2024 -0500
+
+    Merge branch 'main' of https://github.com/Muchiwis/crud_bootstrap5
+
+[33mcommit 5fb0c9a1d543a2b94237ed7f462afc9984376f4e[m
+Author: Muchiwis <jhordcristian75@gmail.com>
+Date:   Thu Jun 13 15:09:16 2024 -0500
+
+    change sympfony
+
+[33mcommit 4303c24cf1cb2f79f491ffb8d2732f70fd7b7523[m
+Author: Jhord Cristian <113742339+Muchiwis@users.noreply.github.com>
+Date:   Thu Jun 13 14:58:00 2024 -0500
+
+    Update composer.json
+
+[33mcommit 6fb91e2aaa4402606ce85d54ba4303088a8ed1c4[m
+Author: Muchiwis <jhordcristian75@gmail.com>
+Date:   Thu May 30 16:49:43 2024 -0500
+
+    Subiendo el proyecto
+
+[33mcommit bfd6f5502a212cd157ecfb2cdc3280727a8a1908[m
+Author: Muchiwis <jhordcristian75@gmail.com>
+Date:   Thu May 30 16:31:19 2024 -0500
+
+    Subiendo proyecto
