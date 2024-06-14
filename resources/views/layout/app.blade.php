@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nombre de tu Aplicación</title>
     {{-- @vite('resources/js/app.js') --}}
-    <script src="https://crudbootstrap5-production.up.railway.app/build/assets/app-DEErc_wE.js"></script>
+    <link rel="stylesheet" href="https://crudbootstrap5-production.up.railway.app/build/assets/app-DUEfxN0n.css">
+
     {{-- <link rel="stylesheet" href="{{ asset('tabla.css') }}"> --}}
     {{-- <link rel="stylesheet" href="https://crudbootstrap5-production.up.railway.app/tabla.css"> --}}
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -16,5 +17,6 @@
     <div class="container-fluid mt-4">
         @yield('content')
     </div>
+    <script src="https://crudbootstrap5-production.up.railway.app/build/assets/app-DEErc_wE.js"></script>
 </body>
 </html>
