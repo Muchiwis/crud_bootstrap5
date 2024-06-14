@@ -44,7 +44,7 @@
                     <td>{{ $cliente->ocupacion }}</td>
             
                     <td id="opciones-contenido">
-                        <a href="{{ route('clientes.edit',['id'=>$cliente->id]) }}" class="btn btn-sm btn-success">Editar</a>
+                        <a href="{{ secureUrl(route('clientes.edit',['id'=>$cliente->id])) }}" class="btn btn-sm btn-success">Editar</a>
                         <form action="{{ route('clientes.destroy', ['id'=>$cliente->id]) }}" method="POST" style="display: inline-block;">
                             @csrf
                             @method('DELETE')

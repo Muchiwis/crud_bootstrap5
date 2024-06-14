@@ -6,7 +6,7 @@
         <div class="card-header">
             <h2>{{ isset($cliente) ? 'Editar Cliente' : 'Nuevo Cliente' }}</h2>
         </div>
-        <form action="{{ isset($cliente) ? route('clientes.update', $cliente->id) : route('clientes.store') }}" method="POST">
+        <form action="{{ isset($cliente) ? secureUrl(route('clientes.update', $cliente->id)) : secureUrl(route('clientes.store')) }}" method="POST">
             @csrf
             @if (isset($cliente))
                 @method('PUT')
@@ -97,7 +97,7 @@
                     </div>
             </div>
             <div class="d-block text-end card-footer">
-                <a href="{{ route('clientes.index') }}" class="btn btn-secondary">Cancelar</a>
+                <a href="{{ secureUrl(route('clientes.index')) }}" class="btn btn-secondary">Cancelar</a>
                 <button type="submit" class="btn btn-primary">Guardar</button>
             </div>
         </form>
